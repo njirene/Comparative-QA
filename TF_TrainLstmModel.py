@@ -23,12 +23,12 @@ test_file = "data/baidu_sousuo438_plus_nlpcc1000"
 #test_file = "../data/nlpcc2016_test1000_set.txt"
 
 # 结果文件
-modelSaveFile = "result1/savedModel.model"
-scored_test_set_file = "result1/scored_test_set_file.score"
-scored_develop_test_set_file = "result1/scored_develop_test_set_file.score"
+modelSaveFile = "result/savedModel.model"
+scored_test_set_file = "result/scored_test_set_file.score"
+scored_develop_test_set_file = "result/scored_develop_test_set_file.score"
 
 # 输出日志文件
-output_log_file = "result1/output.log"
+output_log_file = "result/output.log"
 embeddingSize = 300  # embedding维度
 #embeddingSize = 64  # embedding维度
 
